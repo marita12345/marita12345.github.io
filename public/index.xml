@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Project Site</title>
+    <link>https://cs-ej4104-fall-2020.github.io/marita12345-project/</link>
+    <description>Recent content on My Project Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Nov 2020 19:29:48 +0200</lastBuildDate><atom:link href="https://cs-ej4104-fall-2020.github.io/marita12345-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning DevOps</title>
+      <link>https://cs-ej4104-fall-2020.github.io/marita12345-project/post/learning-devops/</link>
+      <pubDate>Mon, 30 Nov 2020 19:29:48 +0200</pubDate>
+      
+      <guid>https://cs-ej4104-fall-2020.github.io/marita12345-project/post/learning-devops/</guid>
+      <description>As wrote in my first post, my expectations for learning were DevOps process clarification and to get some hands on experience.
+Both of my expectations were fullfilled in this course. I got a new information about the DevOps proces and the project work was good. I have used Jenkins pipelines earlier, but GitHub worflow practicalities were completely new for me, so it was interesting to build up one. I had heard that one can do a build process directly in Github, but I was not aware that it was such an easy thing to do as it was.</description>
+    </item>
+    
+    <item>
+      <title>Me and the CS-EJ4104 course</title>
+      <link>https://cs-ej4104-fall-2020.github.io/marita12345-project/post/cs-ej4104/</link>
+      <pubDate>Mon, 30 Nov 2020 18:57:42 +0200</pubDate>
+      
+      <guid>https://cs-ej4104-fall-2020.github.io/marita12345-project/post/cs-ej4104/</guid>
+      <description>In my current job I have heard term DevOps for several times and I have been told that our processes are partly following DevOps practices. As I have not studied anything related to DevOps before, I was interested in learning the DevOps basics in order to be able to see the whole picture about the things that we are trying to achieve in my current company. Also, as most of us in our company are rookies with DevOps, it would be also a good change to get some new ideas from the course and be able to deploy those ideas to real project use.</description>
+    </item>
+    
+  </channel>
+</rss>

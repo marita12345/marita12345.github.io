@@ -1,0 +1,38 @@
+baseURL = "https://marita12345.github.io/"
+title = "My Test Site"
+#languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+#googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author]
+  name = "Marita K"
+  bio = "Marita is a software tester"
+  #avatar = "img/avatar.png"
+
+[Params]
+  description = "This site is for CS-EJ4104 course project work" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+#  authorbox = true
+  pager = true
+  post_meta = ["author", "date", "categories"] # Order of post meta information
+
+[Params.logo]
+  #image = "img/placeholder.png" # Logo image. Path relative to "static"
+  subtitle = "Marita's project website" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+#https://github.com/Vimux/mainroad
