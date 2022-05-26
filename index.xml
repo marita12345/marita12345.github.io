@@ -5,11 +5,11 @@
     <link>https://marita12345.github.io/</link>
     <description>Recent content on Marita&#39;s testing site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Nov 2020 19:29:48 +0200</lastBuildDate><atom:link href="https://marita12345.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 19:29:48 +0200</lastBuildDate><atom:link href="https://marita12345.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reporting Robot Framework test results</title>
       <link>https://marita12345.github.io/post/post1/</link>
-      <pubDate>Mon, 30 Nov 2020 19:29:48 +0200</pubDate>
+      <pubDate>Wed, 25 May 2022 19:29:48 +0200</pubDate>
       
       <guid>https://marita12345.github.io/post/post1/</guid>
       <description>Trying out different ways for reporting Robot Framework test results in GitHub actions. The repository is available on: https://github.com/marita12345/hello-world</description>
