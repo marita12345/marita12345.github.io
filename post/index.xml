@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marita&#39;s testing site</title>
-    <link>https://marita12345.github.io/</link>
-    <description>Recent content on Marita&#39;s testing site</description>
+    <title>Posts on Marita&#39;s testing site</title>
+    <link>https://marita12345.github.io/post/</link>
+    <description>Recent content in Posts on Marita&#39;s testing site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Nov 2020 19:29:48 +0200</lastBuildDate><atom:link href="https://marita12345.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2020 19:29:48 +0200</lastBuildDate><atom:link href="https://marita12345.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reporting Robot Framework test results</title>
       <link>https://marita12345.github.io/post/post1/</link>
