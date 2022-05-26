@@ -1,5 +1,5 @@
 baseURL = "https://marita12345.github.io/"
-title = "My Test Site"
+title = "Marita's testing site"
 #languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
@@ -7,12 +7,12 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "Marita K"
-  bio = "Marita is a software tester"
+  name = "Marita Koskivainio"
+  #bio = "Marita is a software tester"
   #avatar = "img/avatar.png"
 
 [Params]
-  description = "This site is for CS-EJ4104 course project work" # Description of your site
+  description = "This site is for testing" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -22,7 +22,7 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 
 [Params.logo]
   #image = "img/placeholder.png" # Logo image. Path relative to "static"
-  subtitle = "Marita's project website" # Logo subtitle
+  subtitle = "Robot Framework and JMeter testing" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
